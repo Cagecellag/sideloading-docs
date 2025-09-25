@@ -1,0 +1,9 @@
+site_name: sideloading-wiki
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Guides: guides.md
+  - Tools: tools.md
+  - FAQ: faq.md
