@@ -4,6 +4,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Guides: guides.md
+  - Sideloading: iOS_sideloading.md
   - Tools: tools.md
   - FAQ: faq.md
