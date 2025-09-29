@@ -5,5 +5,5 @@ theme:
 nav:
   - Home: index.md
   - Sideloading: iOS_sideloading.md
-  - Tools: tools.md
+  - test: test.md
   - FAQ: faq.md
