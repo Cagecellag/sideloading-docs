@@ -1,9 +1,34 @@
-site_name: sideloading-docs
+site_name: My Wiki
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - content.tabs.link
+    - content.code.copy
 
 nav:
   - Home: index.md
-  - Sideloading: iOS_sideloading.md
-  - test: test.md
+  - Sideloading: 
+    - iOS Sideloading: side/iOS_sideloading.md
+    - Android Sideloading: side/some.md
   - FAQ: faq.md
+
+  - Guides:
+      - Guides Overview: guides/index.md
+      - Getting Started: guides/getting-started.md
+      - Advanced: guides/advanced.md
+  - Tools:
+      - Tools Overview: tools/index.md
+      - Android: tools/android.md
+      - iOS: tools/ios.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
