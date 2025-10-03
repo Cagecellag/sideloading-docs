@@ -9,10 +9,15 @@ theme:
     - content.code.copy
 
 nav:
-  - Home: index.md
+  - Home: 
+      - Home: index.md
   - Sideloading: 
-    - iOS Sideloading: side/iOS_sideloading.md
-    - Android Sideloading: side/some.md
+      - Overview: side/index.md
+      - Sideloading with PC: side/pc-free.md
+      - Buying a Dev Account: side/dev-account.md
+      - Paid Certificates: side/enterprise.md
+      - Leaked Certificates: side/leaked.md
+      - Jailbreaking Your Device: side/jailbreak.md
   - FAQ: faq.md
 
   - Guides:
