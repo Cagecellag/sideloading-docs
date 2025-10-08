@@ -1,26 +1,22 @@
 # Welcome to My Wiki 🎉
 
-> A wiki about sideloading, tools, and guides — inspired by [fmhy.net](https://fmhy.net).
+> This is a wiki about sideloading and other neat things I would like to share with the world.
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick overview
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-book: **Guides**  
-    Step-by-step tutorials for beginners.  
-    [:octicons-arrow-right-24: Open Guides](guides.md)
+-   [Sideloading docs:](side/)
+    - Here you can find detailed iOS sideloading documentation.
 
--   :fontawesome-solid-magnifying-glass: **Tools**  
-    The best sideloading apps and resources.  
-    [:octicons-arrow-right-24: Browse Tools](tools.md)
-
--   :fontawesome-solid-users: **Community**  
-    Links to Discords, forums, and groups.  
-    [:octicons-arrow-right-24: Join Community](community.md)
+-   [:fontawesome-solid-users: **Community**](community.md)
+    - Links to Discords, forums, and groups.
 
 </div>
+
+
 
 ---
 

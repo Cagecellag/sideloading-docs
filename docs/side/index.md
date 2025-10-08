@@ -11,3 +11,12 @@ Welcome! This wiki explains the different ways to sideload apps onto iOS and iPa
 - [Method 5: Jailbreaking Your Device](method-5-jailbreak.md)
 
 Each method has its own pros and cons. Browse through the options and choose what best fits your needs.
+
+## Respective subreddits
+(Please first search your problem before asking, most questions are already answered)
+
+- **[r/sideloading](https://www.reddit.com/r/sideloading)** (The main sideloading subreddit for all things sideloading)
+- **[r/jailbreak](https://www.reddit.com/r/jailbreak)** (Self explanatory, its a subreddit about jailbreaking)
+- **[r/altstore](https://www.reddit.com/r/AltStore)** (Subreddit about AltStore)
+- **[r/sidestore](https://www.reddit.com/r/SideStore)** (Subreddit about SideStore)
+- If you cant find anything about your problem also try to look for the respective app subreddit. For example Apollo has its own subreddit [r/apolloapp](https://www.reddit.com/r/apolloapp)

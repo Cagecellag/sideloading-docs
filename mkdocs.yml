@@ -7,10 +7,11 @@ theme:
     - navigation.sections
     - content.tabs.link
     - content.code.copy
+    - content.cards
 
 nav:
   - Home: 
-      - Home: index.md
+      - Overview: index.md
   - Sideloading: 
       - Overview: side/index.md
       - Sideloading with PC: side/pc-free.md
@@ -40,3 +41,8 @@ markdown_extensions:
 
 extra_css:
   - css/custom.css
+  - assets/extra.css
+
+extra_javascript:
+  - assets/extra.js
+
