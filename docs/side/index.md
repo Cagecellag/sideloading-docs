@@ -19,4 +19,4 @@ Each method has its own pros and cons. Browse through the options and choose wha
 - **[r/jailbreak](https://www.reddit.com/r/jailbreak)** (Self explanatory, its a subreddit about jailbreaking)
 - **[r/altstore](https://www.reddit.com/r/AltStore)** (Subreddit about AltStore)
 - **[r/sidestore](https://www.reddit.com/r/SideStore)** (Subreddit about SideStore)
-- If you cant find anything about your problem also try to look for the respective app subreddit. For example Apollo has its own subreddit [r/apolloapp](https://www.reddit.com/r/apolloapp)
+- If you can't find anything about your problem also try to look for the respective app subreddit. For example Apollo has its own subreddit [r/apolloapp](https://www.reddit.com/r/apolloapp)
