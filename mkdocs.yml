@@ -37,3 +37,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.emoji:
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_css:
+  - css/custom.css
