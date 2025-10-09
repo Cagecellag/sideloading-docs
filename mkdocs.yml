@@ -85,5 +85,5 @@ extra_javascript:
   - assets/extra.js
 
 static_templates:
-  - 404.md 
+  - 404.html
 
