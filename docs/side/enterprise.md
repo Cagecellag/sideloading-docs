@@ -35,7 +35,7 @@ Here are a few community-recommended and personally tested services. Prices are 
 - **[Krave Sign](https://kravesign.com/)** — roughly €7, really popular and good, though was hit very badly by revokes by apple so they temporarily shut down their service all together.  
 - **[Signulous](https://signulous.com/)** — around €20, quite pricy but the community seems to trust them.  
 - **[AppTesters](https://apptesters.org/)** — €15 with a “lifetime” option (renewed yearly). Redditors say after being revoked they had to wait a long time to get there new cert 
-- **[DxSign](https://dxsign.cc)** — Currently €5, + €3 for revoke protection, but has mixed reviews and website seems out of date at the time of writing. 
+- **[DxSign](https://dxsign.cc)** — Currently out of stock but usually €5, + €3 for revoke protection, but has mixed reviews and website seems out of date at the time of writing. 
  
 Most of the time its a gamble as to witch service to chose, all ican say would be my option. You can read 
 
