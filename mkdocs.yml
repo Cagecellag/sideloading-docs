@@ -46,8 +46,6 @@ extra_css:
 extra_javascript:
   - assets/extra.js
 
-custom_dir: overrides
-
 static_templates:
-  - 404.md
+  - 404.html
 
