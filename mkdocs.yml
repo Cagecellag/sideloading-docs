@@ -13,9 +13,9 @@ nav:
   - Home: 
       - Overview: index.md
   - Sideloading: 
-      - Overview: side/index.md
+      - Overview: side/index.md 
       - Sideloading with PC: side/pc-free.md
-      - Buying a Dev Account: side/dev-account.md
+      - Buying a Dev Account (how lmao): side/dev-account.md
       - Paid Certificates: side/enterprise.md
       - Leaked Certificates: side/leaked.md
       - Jailbreaking Your Device: side/jailbreak.md

@@ -1,16 +1,21 @@
 # iOS Sideloading Wiki
 
-Welcome! This wiki explains the different ways to sideload apps onto iOS and iPadOS devices.  
-*(Note: signing is just allowing the app to start — without the signing process, apps simply won’t run.)*
+This wiki tries to explain the different ways to sideload apps onto iOS and iPadOS devices.  
 
-## Methods
-- [Method 1: Using a PC (Free)](method-1-pc-free.md)
-- [Method 2: Apple Developer Account (€99/year)](method-2-dev-account.md)
-- [Method 3: Buying an Enterprise Certificate](method-3-enterprise.md)
-- [Method 4: Using Leaked Certificates](method-4-leaked.md)
-- [Method 5: Jailbreaking Your Device](method-5-jailbreak.md)
+## Ways to sideload iPAs
+- **[Using a PC to sideload](pc-free.md)**
+- **[Buying a Apple Developer Account](dev-account.md)**
+- **[Buying a Distribution Certificate](enterprise.md)**
+- **[Using Leaked Certificates](leaked.md)**
+- **[Jailbreaking Your Device](jailbreak.md)**
 
 Each method has its own pros and cons. Browse through the options and choose what best fits your needs.
+
+## Information
+
+- **iOS Version Compatibility**: Ensure the app you are trying to sideload is compatible with your iOS version.
+
+## iPA Sources
 
 ## Respective subreddits
 (Please first search your problem before asking, most questions are already answered)

@@ -23,7 +23,7 @@ Just choose a method and it will bring you to an instructions page on how to ins
 - There are also app IDs, but I don't fully understand them; you can always look them up on the [respective subreddits.](/side/#respective-subreddits)
 - You can sideload **only 3 apps** at a time using a free Apple ID.  
 - Apps must be **re-signed every 7 days** to remain functional.   
-- **Push notifications** and **in-app link opening** (e.g., https://reddot.com → Reddit app) are not supported. However, URI schemes (e.g., reddit:// → Reddit app) will work. 
+- **Push notifications** and **in-app link opening** (e.g., https://reddit.com → Reddit app) are not supported. However, URI schemes (e.g., reddit:// → Reddit app) will work. 
 - Depending on the method you choose, the device must be **connected to the computer** during the sideloading process.
 
 ---
