@@ -1,3 +1,15 @@
+# Project information
+site_name: Sideloading-docs
+site_url: https://cagecellag.github.io/sideloading-docs
+site_author: CageCell
+site_description: >-
+  Write your documentation in Markdown and create a professional static site in
+  minutes – searchable, customizable, in 60+ languages, for all devices
+
+# Repository
+repo_name: Cagecellag/sideloading-docs
+repo_url: https://github.com/Cagecellag/sideloading-docs
+
 site_name: My Wiki
 theme:
   name: material
@@ -8,6 +20,32 @@ theme:
     - content.tabs.link
     - content.code.copy
     - content.cards
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: docs/assets/favicon.jpg
+  icon:
+    logo: logo
 
 nav:
   - Home: 
@@ -47,5 +85,5 @@ extra_javascript:
   - assets/extra.js
 
 static_templates:
-  - 404.html
+  - 404.md 
 
