@@ -20,6 +20,15 @@ theme:
     - content.tabs.link
     - content.code.copy
     - content.cards
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.prefetch
+
   custom_dir: docs/overrides
   palette:
       - media: "(prefers-color-scheme: dark)"
@@ -44,26 +53,6 @@ theme:
   icon:
     logo: logo
 
-nav:
-  - Home: 
-      - Overview: index.md
-  - Sideloading: 
-      - Overview: side/index.md 
-      - Sideloading with PC: side/pc-free.md
-      - Buying a Dev Account (how lmao): side/dev-account.md
-      - Paid Certificates: side/enterprise.md
-      - Leaked Certificates: side/leaked.md
-      - Jailbreaking Your Device: side/jailbreak.md
-  - FAQ: faq.md
-
-  - Guides:
-      - Guides Overview: guides/index.md
-      - Getting Started: guides/getting-started.md
-      - Advanced: guides/advanced.md
-  - Tools:
-      - Tools Overview: tools/index.md
-      - Android: tools/android.md
-      - iOS: tools/ios.md
 
 markdown_extensions:
   - attr_list
@@ -80,5 +69,37 @@ extra_css:
 
 extra_javascript:
   - assets/extra.js
+
+
+nav:
+  - Home: 
+      - Overview: index.md
+  - Sideloading: 
+      - side/index.md 
+      - Sideloading with PC: side/pc-free.md
+      - Buying a Dev Account (how lmao): side/dev-account.md
+      - Paid Certificates: side/enterprise.md
+      - Leaked Certificates: side/leaked.md
+      - Jailbreaking Your Device: side/jailbreak.md
+      
+        
+      - Apps:
+        - side/apps.md
+      - Changelog:
+        - changelog/index.md
+        - How to upgrade: upgrade.md
+
+
+  - FAQ: faq.md
+  - Guides:
+      - Guides Overview: guides/index.md
+      - Getting Started: guides/getting-started.md
+      - Advanced: guides/advanced.md
+  - Tools:
+      - Tools Overview: tools/index.md
+      - Android: tools/android.md
+      - iOS: tools/ios.md
+
+
 
 
