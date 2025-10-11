@@ -1,0 +1,17 @@
+.grid.cards {
+    cursor: pointer;
+}
+
+[data-md-color-scheme="defasult"] {
+  --md-primary-fg-color: #206aa7;
+  --md-accent-fg-color: #ffffff; 
+  --md-primary-bg-color: #ffffffee;
+  --md-default-fg-color: #884141;
+}
+
+[data-md-color-scheme="dark"] {
+  --md-primary-fg-color: #202020;
+  --md-accent-fg-color: #7a7a7a; 
+  --md-default-bg-color: #1d1d1d;
+  --md-default-fg-color: #ffffff;
+}
