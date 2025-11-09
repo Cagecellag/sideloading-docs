@@ -81,13 +81,10 @@ nav:
       - Paid Certificates: side/enterprise.md
       - Leaked Certificates: side/leaked.md
       - Jailbreaking Your Device: side/jailbreak.md
-      
-        
-      - Apps:
+
+      - Outsourced docs:
         - side/apps.md
-      - Changelog:
-        - changelog/index.md
-        - How to upgrade: upgrade.md
+        - Repos for Sideloading: side/repos.md
 
 
   - FAQ: faq.md
